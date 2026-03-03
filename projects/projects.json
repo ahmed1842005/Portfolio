@@ -3,7 +3,6 @@
   {
     "name": "Azkar-App",
     "desc": "A simple and interactive Islamic Azkar web application built using HTML, CSS, and JavaScript.",
-    "image": "templeweb",
     "category": "basicweb",
     "links": {
       "view": "https://ahmed1842005.github.io/Azkar-App/",
@@ -11,3 +10,4 @@
     }
   }
 ]
+
